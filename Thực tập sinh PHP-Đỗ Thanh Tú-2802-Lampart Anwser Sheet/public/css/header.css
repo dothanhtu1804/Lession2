@@ -1,0 +1,23 @@
+   #wrapper {
+        width: 720px;
+        margin: 0 auto;
+    } 
+
+#menu {
+        height: 80%;
+        text-align: center;
+        align-items: center;
+    }
+
+    #menu {
+        color: rgb(173, 173, 173);
+    }
+
+    #menu a {
+        margin-left: 60px;
+        text-decoration: none;
+        color: white;
+        padding: 10px 0px;
+        background-color: rgb(59, 122, 240);
+        border-radius: 5px;
+    }

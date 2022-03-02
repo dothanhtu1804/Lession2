@@ -1,0 +1,14 @@
+.main label {
+        display: block;
+        padding-bottom: 10px;
+        font-family: 'Roboto Medium';
+        font-weight: normal;
+    }
+
+    .main input {
+        display: block;
+        padding: 5px 10px;
+        border: 1px solid #ddd;
+        width: 35%;
+        margin-bottom: 15px;
+    }
